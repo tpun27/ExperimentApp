@@ -1,0 +1,11 @@
+## Part I:
+  - Yelp Docs
+    - https://www.yelp.com/developers/documentation/v3
+    - https://www.yelp.com/developers/documentation/v3/get_started
+    - https://www.yelp.com/developers/api_terms
+    - https://www.yelp.com/developers/display_requirements
+  - Gitignore source
+    -    https://gist.github.com/islomar/6704b616463deef606e2
+  - Sortpom docs
+    - https://github.com/Ekryd/sortpom/wiki/Recommended-configuration
+    - https://github.com/Ekryd/sortpom/wiki/Parameters
